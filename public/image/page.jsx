@@ -5,35 +5,26 @@ import '../styles.css';
 const Header = () => {
   return (
     <div>
+
       <div className="border">
-        <div className="icon">
-          <Image
-            src="/image/2590685.png" 
-            alt="Hong Hub Logo"
-            width={50}
-            height={50}
-          />
-        </div>
-        <span className="logo">HONG HUB</span>
+        <Image
+          src="/image/2590685.png" 
+          alt="Hong Hub Logo"
+          width={50}
+          height={50}
+        />
+        <p1 className="logo">HONG HUB</p1>
+      
       </div>
 
       <div className='header'>
-        <div className='dropbar'>
-        
-          <div class="dropdown">
-            <button class="btn"><Image
+        <div className="dropdownbar">
+          <Image
             src="/image/2311531.png" 
             alt="dropdown"
             width={50}
             height={50}
-          /></button>
-            <div class="dropdown-menu">
-            <a href="#">PROMOTION</a>
-            <a href="#">LOCATION</a>
-            <a href="#">PRICE RANG</a>
-            <a href="#">HELP</a>
-            </div>
-          </div>
+          />
         </div>
         <span className='title1'>HOME</span>
         <span className='title2'>NEAR ME</span>

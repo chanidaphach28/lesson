@@ -1,0 +1,43 @@
+.border{
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 100vw;
+    margin: auto;
+    background-color: peachpuff;
+    border-bottom:  2px solid;
+
+
+}
+.header{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 100vw;
+    margin: auto;
+    background-color: peachpuff;
+    border: 100px;
+
+}
+.dropdownbar{
+    margin-left: 0px;
+}
+
+.title1{
+    word-spacing: 100px;
+}
+.title2{
+    padding: 100px;
+    word-spacing: 5px;
+}
+.title3{
+    padding: 100px;
+    word-spacing: 5px;
+}
+.title4{
+    padding: 100px;
+    word-spacing: 5px;
+}
+.title5{
+    padding: 100px;
+    word-spacing: 5px;
+}
